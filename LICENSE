@@ -1,1 +1,57 @@
+==============================================================================
+  MURAL - LICENSE
+  Copyright (c) 2026 galaxymodz. All rights reserved.
+==============================================================================
 
+Thank you for purchasing Mural. This is the agreement between you (the
+purchaser) and galaxymodz for the use of the plugin. It is in addition to the
+terms of the marketplace you bought it from; where the two differ, the stricter
+terms apply.
+
+
+WHAT YOU GET
+------------------------------------------------------------------------------
+A single-purchase license to use Mural on Minecraft servers that you own or
+operate. No recurring fee. You may run it on your test and production
+instances and across the servers of a single network you control.
+
+
+YOU MAY
+------------------------------------------------------------------------------
+  - Run Mural on your own server(s).
+  - Edit config.yml and messages.yml to suit your server.
+  - Use the artwork your players create with Mural however you like.
+
+
+YOU MAY NOT
+------------------------------------------------------------------------------
+  - Redistribute, resell, share, sublicense, rent or publicly post the jar,
+    in whole or in part.
+  - Leak it, upload it to a "leak" site, or pass it to anyone else.
+  - Decompile, reverse-engineer or rebrand the plugin to claim it as your own
+    or to get around this license.
+  - Claim authorship of Mural.
+
+
+SUPPORT & REFUNDS
+------------------------------------------------------------------------------
+Support is best-effort through the support channel listed on the store page.
+Refunds follow the policy of the marketplace you purchased from.
+
+
+NO WARRANTY
+------------------------------------------------------------------------------
+Mural is provided "as is", without warranty of any kind. The author is not
+liable for any damages arising from its use. Keep your own backups of your
+server and its data.
+
+
+ACKNOWLEDGEMENT
+------------------------------------------------------------------------------
+Mural is based on the original Daub project by danvsel (Eclipsed Studio) and
+is developed and distributed with their permission.
+
+
+Mural is an independent project and is not affiliated with Mojang or Microsoft.
+
+==============================================================================
